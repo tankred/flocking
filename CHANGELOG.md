@@ -6,11 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.2.0] - 2020-04-02
+### Changed
+- Bump version 0.2
+
 ## [0.1.1] - 2020-04-02
 ### Added
 - index.js
-
-## [Released]
 
 ## [0.1.0] - 2020-04-01
 ### Added
